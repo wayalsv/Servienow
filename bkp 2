@@ -1,0 +1,22 @@
+bkp 2
+git add <filename>.xml
+git commit -m "Backup of Update Set: [Update Set Name]"
+git push origin main
+
+
+git add <filename>.xml
+git commit -m "Backup of Update Set: [Update Set Name]"
+git push origin main
+
+git add <filename>.xml
+git commit -m "Backup of Update Set: [Update Set Name]"
+git push origin main
+
+git add <filename>.xml
+git commit -m "Backup of Update Set: [Update Set Name]"
+git push origin main
+
+git add <filename>.xml
+git commit -m "Backup of Update Set: [Update Set Name]"
+git push origin main
+
